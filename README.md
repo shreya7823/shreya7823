@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @shreya7823
-- 👀 I’m interested in programing
-- 🌱 I’m currently learning python
+- 👀 I’m passionate about coding.
   
 
 
